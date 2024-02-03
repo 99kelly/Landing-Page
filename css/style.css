@@ -150,6 +150,7 @@ body {
     height: 150px;
     font-size: 1.25rem;
     padding-top: 1rem;
+    padding-left: 0;
 }
 
 .footer ul li {
