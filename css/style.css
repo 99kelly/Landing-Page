@@ -149,8 +149,8 @@ body {
     color: #dcab8e6e;
     height: 150px;
     font-size: 1.25rem;
+    padding: 0;
     padding-top: 1rem;
-    padding-left: 0;
 }
 
 .footer ul li {
